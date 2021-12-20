@@ -1,0 +1,174 @@
+/*
+Title : Employee Details Application
+Author : Bavatharani
+Started on : 13/12/2021
+*/
+
+
+// Employee Details Application
+using System;
+
+namespace EmployeeDetails
+{
+    class Program
+    {
+        int Employee_ID, Employee_Age, Counts;
+        long Employee_PhoneNo;
+        double Salary;
+        DateTime Date_of_Birth;
+        DateTime Date_of_Joining;
+        string Employee_Name, Employee_Stream, Employee_Designation;
+
+        public Program()
+        {
+            Employee_Details();
+        }
+
+
+        public Program(string name, string stream, string designation, int age, int id, long phone, DateTime dob, DateTime doj, double salary)
+        {
+
+            Employee_Name = name;
+            Employee_Stream = stream;
+            Employee_Designation = designation;
+            Employee_Age = age;
+            Employee_ID = id;
+            Employee_PhoneNo = phone;
+            Date_of_Birth = dob;
+            Date_of_Joining = doj;
+            Salary = salary;
+        }
+
+        void Employee_Details()
+        {
+            // fields
+            /* int Employee_ID, Employee_Age, counts;
+             long Employee_PhoneNo;
+             double Salary;
+             DateTime Date_of_Birth;
+             DateTime Date_of_Joining;
+             string Employee_Name, Employee_Stream, Employee_Designation;
+             */
+            Console.WriteLine("Enter the counts of employee: ");
+            Counts = Convert.ToInt32(Console.ReadLine());
+            Program[] array_choice = new Program[Counts];
+
+            for (int i = 0; i < array_choice.Length; i++)
+            {
+
+                // Welcome page (To Get and store the employee Details)
+                Console.WriteLine("**********Employee details**********");
+                
+                //Get the name of the employee
+                Console.WriteLine("Enter the Employee name: ");
+                Employee_Name = Console.ReadLine();
+
+                //Get the stream of the employee
+                Console.WriteLine("\nEnter the Employee stream: ");
+                Employee_Stream = Console.ReadLine();
+
+                //Get the designation of the employee
+                Console.WriteLine("\nEnter the Employee designation: ");
+                Employee_Designation = Console.ReadLine();
+
+                //Get the age of the employee
+                Console.WriteLine("\nEnter the Employee AGE: ");
+                Employee_Age = Convert.ToInt32(Console.ReadLine());
+
+                // validate the employee age
+                if (Employee_Age >= 18 && Employee_Age <= 70)
+                {
+                    Console.WriteLine("Valid");
+                }
+                else
+                {
+                    Console.WriteLine("Invalid");
+                }
+
+                //Get the id of the employee
+                Console.WriteLine("\nEnter the Employee ID: ");
+                Employee_ID = Convert.ToInt32(Console.ReadLine());
+
+                // Get the phone number from employee
+                Console.WriteLine("\nEnter the Employee Phone number: ");
+                Employee_PhoneNo = Convert.ToInt64(Console.ReadLine());
+
+                //Get the dob of the employee
+                Console.WriteLine(" ");
+                Console.WriteLine("Enter your DOB in this format dd/mm/yyyy hh:mm:ss AM (or) PM. (eg, 12/09/1999 3:25:30 AM)");
+                Console.WriteLine("Enter the Employee Date_of_Birth: ");
+                Date_of_Birth = Convert.ToDateTime(Console.ReadLine());
+
+
+                //Get the doJ of the employee
+                Console.WriteLine(" ");
+                Console.WriteLine("Enter your DOJ in this format dd/mm/yyyy hh:mm:ss AM (or) PM. (eg, 07/10/2020 14:26:30 AM)");
+                Console.WriteLine("Enter the Employee Date_of_Joining: ");
+                Date_of_Joining = Convert.ToDateTime(Console.ReadLine());
+
+                //Get the salary of the employee
+                Console.WriteLine("\nEnter the Employee Salary: ");
+                Salary = Convert.ToDouble(Console.ReadLine());
+
+                //  string name,string stream,string designation,int age,int id,long phone,DateTime dob,DateTime doj ){
+
+                array_choice[i] = new Program(Employee_Name, Employee_Stream, Employee_Designation, Employee_Age, Employee_ID, Employee_PhoneNo, Date_of_Birth, Date_of_Joining,
+                Salary);
+            }
+
+
+            // Collect the employee details
+            Console.WriteLine("\nEmployee Name : " + Employee_Name);
+            Console.WriteLine("Employee ID : " + Employee_ID);
+            Console.WriteLine("Employee DOB : " + Date_of_Birth);
+            Console.WriteLine("Employee Age : " + Employee_Age);
+            Console.WriteLine("Employee DOJ : " + Date_of_Joining);
+            Console.WriteLine("Employee Phone Number : " + Employee_PhoneNo);
+            Console.WriteLine("stream : " + Employee_Stream);
+            Console.WriteLine("Designation : " + Employee_Designation);
+            Console.WriteLine("Employee Salary : " + Salary);
+
+        }
+
+
+
+        static void Main(string[] args)
+
+        {
+            Console.WriteLine("Welcome to AS System!");
+            Console.WriteLine("Greetings.\n");
+            Program program = new Program();
+          
+        }
+    }
+}
+
+
+
+/* 
+Employee details application:
+
+Day 1 : I implement the data types and get input from the user to print the employee details.
+Mistake: => I use int datatype in dob & doj and not validate the values,
+        => Using datatype in salary also not correct.
+        
+Day 2 : Add phone number in employee details. I use DateTime type to get 
+the date of birth and date of joining in a proper format.
+Mistake: => I use incorrect conversion in long datatype.
+
+Day 3 : I Validate the age using if and else condition. Get the user input details and 
+stored into the array.
+Learn: I learnt, how to get the multiple user input.
+
+Day 4 : I implement the concepts of class and object.
+Learn: Exploring the concepts classes.
+
+Day 5 : I resolved the error occured in get N number of details.
+Mistake: => Object array declaration is not correct.
+         => Get the array length syntax is not correct
+         (eg. array.length but correct syntax is array.Length).
+Learn: Gothrough the arrays and Basic OOPS concepts.
+
+*/
+
+
