@@ -1,0 +1,38 @@
+.Net:
+
+.Net is an open source developer platform and it is created by microsoft. .NET Framework is a software development framework for building and running applications on Windows. ... NET Framework is part of the . NET platform, a collection of technologies for building apps for Linux, macOS, Windows, iOS, Android, and more.
+
+.Net Architecture:
+
+NET architecture is the programming model for the . NET platform. The . NET Framework provides a managed execution environment, simplified development and deployment and integration with a wide variety of programming languages.
+
+Versions of .Net:
+
+4.8 is the latest version of .Net.
+
+Features of .Net:
+
+* Interoperability.
+* Common type system.
+* Multi language support.
+* Tool support.
+* Security.
+* Simplified development.
+* Easy and rich debugging support.
+
+Advantages of .Net :
+
+* Requires less coding. Due to its OOP methodology, less coding can generate maximum results. 
+* Deployment. 
+* Security and Safety. 
+* Most viable.
+* Operational Simplicity.
+* Consistency.
+* Monitoring.
+
+Disadvantages of .Net:
+
+* Limited Object-Relational Support.
+* Memory Leaks.
+* Difficulty in the transition to .NET core.
+* Requires more RAM.
