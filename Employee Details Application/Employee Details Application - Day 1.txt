@@ -1,0 +1,71 @@
+// Employee Details Application
+
+using System;
+class EmployeeDetails {
+  static void Main() {
+    
+    int Employee_ID, Employee_Age;
+    double Salary;
+    string Employee_Name, Date_of_Birth, Date_of_Joining, Employee_Stream, Employee_Designation;
+    
+    // Get details from the user
+    Console.WriteLine("Welcome to AS System!");
+    Console.WriteLine("");
+    
+    //Get the name of the employee
+    Console.WriteLine("Enter the Employee name: ");
+    Employee_Name = Console.ReadLine();
+    
+     //Get the id of the employee
+    Console.WriteLine("Enter the Employee ID: ");
+    Employee_ID = Convert.ToInt32(Console.ReadLine());
+    
+     //Get the dob of the employee
+    Console.WriteLine("Enter the Employee Date_of_Birth: ");
+    Date_of_Birth = Console.ReadLine();
+    
+     //Get the age of the employee
+    Console.WriteLine("Enter the Employee AGE: ");
+    Employee_Age = Convert.ToInt32(Console.ReadLine());
+    
+    //Get the doJ of the employee
+    Console.WriteLine("Enter the Employee Date_of_Joining: ");
+    Date_of_Joining = Console.ReadLine();
+    
+     //Get the stream of the employee
+    Console.WriteLine("Enter the Employee stream: ");
+    Employee_Stream = Console.ReadLine();
+    
+     //Get the designation of the employee
+    Console.WriteLine("Enter the Employee designation: ");
+    Employee_Designation = Console.ReadLine();
+    
+     //Get the salary of the employee
+    Console.WriteLine("Enter the Employee Salary: ");
+    Salary = Convert.ToDouble(Console.ReadLine());
+    
+    
+    // Collect the employee details
+    
+    Console.WriteLine("\nEmployee Name : " + Employee_Name);
+    Console.WriteLine("Employee ID : " + Employee_ID);
+    Console.WriteLine("Employee DOB : " + Date_of_Birth);
+    Console.WriteLine("Employee Age : " + Employee_Age);
+    Console.WriteLine("Employee DOJ : " + Date_of_Joining);
+    Console.WriteLine("stream : " + Employee_Stream);
+    Console.WriteLine("Designation : " + Employee_Designation);
+    Console.WriteLine("Employee Salary : " + Salary);
+  }
+}
+
+
+/* 
+Employee details application:
+
+Day 1 : I implement the data types and get input from the user to print the employee details.
+Mistake: => I use int datatype in dob & doj and not validate the values,
+        => using datatype in salary also not correct.
+*/
+
+
+
