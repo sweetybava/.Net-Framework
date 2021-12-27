@@ -2,7 +2,7 @@
 
 using System;
 
-namespace Project04
+namespace Project05
 {
     class Program
     {
@@ -61,7 +61,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project04
+namespace Project05
 {
     //Story class implement the comparable interface
     //Comparable interface used to compare the values
@@ -121,7 +121,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project04
+namespace Project05
 {
     class StoryBO
     {
@@ -147,7 +147,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project04
+namespace Project05
 {
     class NoOfReadsComparator : IComparer<Story>
     {
