@@ -1,0 +1,16 @@
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.exe
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.deps.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.runtimeconfig.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.runtimeconfig.dev.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\ref\Project04UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\bin\Debug\net5.0\Project04UsingList.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.AssemblyInfoInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.AssemblyInfo.cs
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\ref\Project04UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.genruntimeconfig.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project04UsingList\obj\Debug\net5.0\Project04UsingList.csproj.AssemblyReference.cache
