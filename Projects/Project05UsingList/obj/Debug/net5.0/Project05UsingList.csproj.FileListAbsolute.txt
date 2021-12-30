@@ -1,0 +1,16 @@
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.csproj.AssemblyReference.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.AssemblyInfoInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.AssemblyInfo.cs
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.exe
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.deps.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.runtimeconfig.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.runtimeconfig.dev.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\ref\Project05UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\bin\Debug\net5.0\Project05UsingList.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\ref\Project05UsingList.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05UsingList\obj\Debug\net5.0\Project05UsingList.genruntimeconfig.cache
