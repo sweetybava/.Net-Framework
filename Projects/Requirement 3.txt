@@ -1,0 +1,131 @@
+//main class
+
+using System;
+using System.Collections.Generic;
+
+namespace Project03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //fields
+            int noOfStories;
+            string storyDetails;
+
+            //get user input
+            Console.WriteLine("Enter the number of stories:");
+            noOfStories = Convert.ToInt32(Console.ReadLine());
+
+            //objects
+            StoryBO storyBO = new StoryBO();
+            Story[] storyDetailsArray = new Story[noOfStories];
+
+            for (int i = 0; i < noOfStories; i++)
+            {
+                storyDetails = Console.ReadLine();
+
+                string[] storyStringArray = storyDetails.Split(",");
+
+                storyDetailsArray[i] = new Story(storyStringArray[0], storyStringArray[1], storyStringArray[2],
+                    Convert.ToInt32(storyStringArray[3]), Convert.ToInt32(storyStringArray[4]), Convert.ToInt32(storyStringArray[5]));
+            }
+
+
+            Dictionary<string, int> dict = storyBO.getGenreWiseCount(storyDetailsArray);
+
+            Console.WriteLine("Genre" + "        " + "Count");
+            foreach (string k in dict.Keys)
+            {
+                Console.WriteLine(k + "          " + dict[k]);
+            }
+        }
+    }
+}
+
+
+//story class
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project03
+{
+    class Story
+    {
+        //fields
+        private string name, authorName, genre;
+        private int noOfChapters, noOfLikes, noOfReads;
+
+        //Default constructor
+        public Story()
+        {
+
+        }
+
+        //Parameterized constructor
+
+        public Story(string name, string authorName, string genre, int noOfChapters, int noOfLikes, int noOfReads)
+        {
+            this.name = name;
+            this.authorName = authorName;
+            this.genre = genre;
+            this.noOfChapters = noOfChapters;
+            this.noOfLikes = noOfLikes;
+            this.noOfReads = noOfReads;
+        }
+
+        //properties
+        public string Name { get => name; set => name = value; }
+        public string AuthorName { get => authorName; set => authorName = value; }
+        public string Genre { get => genre; set => genre = value; }
+        public int NoOfChapters { get => noOfChapters; set => noOfChapters = value; }
+        public int NoOfLikes { get => noOfLikes; set => noOfLikes = value; }
+        public int NoOfReads { get => noOfReads; set => noOfReads = value; }
+
+        //string method
+        public override string ToString()
+        {
+            return string.Format("%-15s %s\n", "Genre", "Count");
+
+        }
+
+    }
+}
+
+
+//storyBO class
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project03
+{
+    class StoryBO
+    {
+        //Dictionary - collections
+        public Dictionary<string, int> getGenreWiseCount(Story[] stories)
+        {
+            Dictionary<string, int> d = new Dictionary<string, int>();
+
+            foreach (Story st in stories)
+            {
+                if (d.ContainsKey(st.Genre))
+                {
+                    d[st.Genre] = d[st.Genre] + 1;
+                }
+                else
+                {
+                    d.Add(st.Genre, 1);
+                }
+            }
+            return d;
+        }
+    }
+}
