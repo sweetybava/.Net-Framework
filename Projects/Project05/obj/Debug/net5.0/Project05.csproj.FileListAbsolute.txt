@@ -1,0 +1,16 @@
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.exe
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.deps.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.runtimeconfig.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.runtimeconfig.dev.json
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\ref\Project05.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\bin\Debug\net5.0\Project05.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.AssemblyInfoInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.AssemblyInfo.cs
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\ref\Project05.dll
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.pdb
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.genruntimeconfig.cache
+C:\Users\bavatharani.palani\source\repos\Dot Net Project\Project05\obj\Debug\net5.0\Project05.csproj.AssemblyReference.cache
