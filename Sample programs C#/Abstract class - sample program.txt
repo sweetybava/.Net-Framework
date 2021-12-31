@@ -1,0 +1,35 @@
+// Abstract class
+
+using System;
+//base class
+abstract class Aspire {
+    //abstract method
+    public abstract void system();
+    
+    //normal method
+    public void testing() {
+        Console.WriteLine("Enter the user name: ");
+        string name = Console.ReadLine();
+        Console.WriteLine("Name: " + name);
+    } 
+}
+
+// derived class
+class Systems : Aspire {
+    public override void system(){
+        Console.WriteLine("Welcome to AS!");
+    }
+}
+
+class HelloWorld {
+  static void Main() {
+    Systems aps = new Systems();
+    aps.system();
+    aps.testing();
+    
+  }
+}
+
+
+***********************************************************************
+
