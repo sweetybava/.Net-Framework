@@ -1,0 +1,147 @@
+1) calling base class method using derived class object.
+// concept of inheritance
+using System;
+namespace UserApplication 
+{
+  
+// Base class
+class UserDetails {
+   
+   // fields
+    public string name;
+    public string password;
+  
+    // public method of base class 
+    public void user_values(string name, string password)
+    {
+        this.name = name;
+        this.password = password;
+        
+        //Print the user values
+        Console.WriteLine("User Name: " + name);
+        Console.WriteLine("User Password: " + password);
+    }
+}
+  
+// inheriting the UserDetails class using : 
+class UserInfo: UserDetails {
+   
+    // derived class - constructor
+    public UserInfo()
+    {
+        Console.WriteLine("Welcome to AS System!");
+    }
+}
+   
+// Driver class
+class User_Details_Collection {
+  
+    // Main Method
+    static void Main(string[] args)
+    {
+   
+        // creating object of derived class
+        UserInfo UserInfo = new UserInfo();
+  
+        // calling the method of base class 
+        // using the derived class object
+        UserInfo.user_values("Bava", "bava687");
+    }
+}
+}
+
+***********************************************************************
+
+2) 
+// Using derived object to call base methods
+
+using System;
+//Base class
+public class Products {
+    //base class methods
+    public void values() {
+        Console.WriteLine("Mens and Womens collections.");
+        Console.WriteLine("Kids collections");
+        Console.WriteLine("Accessories");
+    }
+}
+
+//Derived class
+public class Product_Names: Products {
+    //Derived class methods
+    public void names() {
+        Console.WriteLine("Traditional and Western wears...");
+        Console.WriteLine("Kids trending collections...");
+        
+        Console.ReadLine();
+        Console
+    }
+}
+
+// Driver class
+class OnlineShopping {
+  static void Main() {
+    
+    Console.WriteLine("********Welcome to TRENDS**********");
+    
+    // base class object
+    Product_Names product = new Product_Names();
+    product.values();
+    product.names();
+    
+  }
+}
+
+************************************************************************
+
+3)Inheritance concept - User input:
+
+using System;
+namespace UserApplication 
+{
+  
+// Base class
+class UserDetails {
+   
+   // fields
+    public string name;
+    public long password;
+  
+    // public method of base class 
+    public void user_values()
+    {
+       Console.WriteLine("Welcome to AS System!");
+    }
+}
+  
+// inheriting the UserDetails class using : 
+class UserInfo: UserDetails {
+   
+    public void user_Info()
+    {
+        
+        Console.WriteLine("Enter the user name: ");
+        name = Console.ReadLine();
+        
+        Console.WriteLine("Enter the password: ");
+        password = Convert.ToInt64(Console.ReadLine());
+        //Print the user values
+        Console.WriteLine("User Name: " + name);
+        Console.WriteLine("User Password: " + password);
+    }
+}
+   
+// Driver class
+class User_Details_Collection {
+  
+    // Main Method
+    static void Main(string[] args)
+    {
+   
+        // creating object of derived class
+        UserInfo uI = new UserInfo();
+        uI.user_values();
+        uI.user_Info();
+    }
+}
+}
