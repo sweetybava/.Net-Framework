@@ -1,0 +1,15 @@
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.exe
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.deps.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.runtimeconfig.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.runtimeconfig.dev.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\ref\InterfaceSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\bin\Debug\net5.0\InterfaceSamplePrg.pdb
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.AssemblyInfoInputs.cache
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.AssemblyInfo.cs
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\ref\InterfaceSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.pdb
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\InterfaceSamplePrg\obj\Debug\net5.0\InterfaceSamplePrg.genruntimeconfig.cache
