@@ -1,0 +1,16 @@
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.exe
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.deps.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.runtimeconfig.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.runtimeconfig.dev.json
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\ref\AbstractionSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\bin\Debug\net5.0\AbstractionSamplePrg.pdb
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.csproj.AssemblyReference.cache
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.AssemblyInfoInputs.cache
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.AssemblyInfo.cs
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\ref\AbstractionSamplePrg.dll
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.pdb
+C:\Users\bavatharani.palani\source\repos\SampleProgramsInCSharp\AbstractionSamplePrg\obj\Debug\net5.0\AbstractionSamplePrg.genruntimeconfig.cache
