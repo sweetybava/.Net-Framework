@@ -1,0 +1,7 @@
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\bin\Debug\CourseFinderApplication.exe.config
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\bin\Debug\CourseFinderApplication.exe
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\bin\Debug\CourseFinderApplication.pdb
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\obj\Debug\CourseFinderApplication.csproj.AssemblyReference.cache
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\obj\Debug\CourseFinderApplication.csproj.CoreCompileInputs.cache
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\obj\Debug\CourseFinderApplication.exe
+C:\Users\bavatharani.palani\source\repos\CourseFinderApplication\CourseFinderApplication\obj\Debug\CourseFinderApplication.pdb
